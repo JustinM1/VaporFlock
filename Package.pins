@@ -4,8 +4,8 @@
     {
       "package": "Flock",
       "reason": null,
-      "repositoryURL": "https://github.com/anthonycastelli/Flock",
-      "version": "0.1.6"
+      "repositoryURL": "https://github.com/JustinM1/Flock.git",
+      "version": "0.1.5"
     },
     {
       "package": "Rainbow",
@@ -23,7 +23,7 @@
       "package": "SwiftCLI",
       "reason": null,
       "repositoryURL": "https://github.com/jakeheis/SwiftCLI",
-      "version": "2.0.3"
+      "version": "3.0.1"
     }
   ],
   "version": 1
